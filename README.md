@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Md. Habibur Rahman</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">A passionate software engineer</h3>
 
-- 🔭 I’m currently working on **portfolio**
-
-- 👯 I’m looking to collaborate on **company**
+- 🔭 I’m currently working on **Easca Solution Limited**
 
 - 📫 How to reach me **habiburrahman.easca@gmail.com**
 
