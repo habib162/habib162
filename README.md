@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/habib162](https://github.com/habib162)
 
-- 💬 Ask me about **laravel, php, react**
+- 💬 Ask me about **laravel, php, react, vue**
 
 - 📫 How to reach me **habiburrahman.easca@gmail.com**
 
